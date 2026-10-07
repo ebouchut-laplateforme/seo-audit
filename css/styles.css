@@ -1,0 +1,9 @@
+img {
+    /* ~~~ Fluid with limits: min 200px, ~half viewport, max 600px  */
+    width: clamp(200px, 50vw, 600px);
+    height: auto;
+
+    /* ~~~ Center */
+    display: block;
+    margin: 0 auto;
+}
