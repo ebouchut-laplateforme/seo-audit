@@ -109,7 +109,7 @@ The **severity levels**:
 - *Fix*: **one unique description** per page, **150 to 160 characters**,
   written as a sales line and containing the page's main keyword.
 
-#### 7. Keywords (HIGH)
+#### 7. Keywords stuffing (HIGH)
 
 - *Where*: [`page1.html:7`](https://github.com/ebouchut-laplateforme/seo-audit/blob/939c87bb968ebca63b17eb1422f307d628c7f7f6/page1.html#L7), [`page1.html:12-13`](https://github.com/ebouchut-laplateforme/seo-audit/blob/main/page1.html#L12-L13)
 - *Problem*: "Java" appears 6 times and "formation" 5 times in two
