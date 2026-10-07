@@ -254,8 +254,8 @@ The **severity levels**:
 #### 17. No `rel="canonical"` (MEDIUM)
 
 - *Where*: `index.html:2`, `page1.html:2`
-- *Problem*: the same content is reachable at several URLs — `/`,
-  `/index.html`, and with or without `www` or a query string. Without a
+- *Problem*: the same content is reachable at several URLs (`/`,
+  `/index.html`, and with or without `www` or a query string). Without a
   canonical, search engines may index them as duplicates and split the
   ranking between them.
 - *Fix*: `<link rel="canonical" href="...">` in the `<head>` of each
